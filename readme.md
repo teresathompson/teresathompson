@@ -4,7 +4,7 @@
   
   Hello! 👋
 
-I'm Teresa Anne Thompson and I'm a Xamarin Forms/C#/.NET developer who also has Data Science training.
+I'm Teresa Anne Thompson and I'm a Xamarin Forms/UWP/C#/.NET developer who also has Data Science training.
 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was a veterinarian before working as a developer. 🐔🐄🐴🐶🐱</TD>
