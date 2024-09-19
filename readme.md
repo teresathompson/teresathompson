@@ -1,20 +1,15 @@
 
-<TABLE  WIDTH="360em"  BORDER="2 px" align="center">
-  <TR><TD>
+
   
-  Hello! 👋
+ Hi there! 👋
 
-I'm Teresa Anne Thompson and I'm a Xamarin Forms/UWP/C#/.NET developer who also has Data Science training.
+Hello! 👋
 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I was a veterinarian before working as a developer. 🐔🐄🐴🐶🐱</TD>
-  
+I’m Teresa Anne Thompson, a MAUI/Xamarin Forms/UWP/C#/.NET developer with a knack for creating efficient, cross-platform apps that deliver great user experiences. My coding journey is complemented by a foundation in Data Science, allowing me to bridge the gap between software development and data-driven insights.
 
- <TD>
-<img height="310em" src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif">
- </TD></TR></TABLE>
- 
- 
+⚡ Fun fact: Before I switched gears to software development, I was a practicing veterinarian! 🐾 From caring for animals like dogs and cats, to now caring for clean code and robust architectures—I've always been driven by problem-solving and a curiosity for complex challenges. My experience as a vet taught me patience, empathy, and attention to detail, which surprisingly comes in handy when debugging code! 🐶🐱🐴
+I’m excited to keep learning and growing, bringing unique perspectives to every project I tackle!
+
 
 
 <div align="center">
@@ -33,6 +28,7 @@ I'm Teresa Anne Thompson and I'm a Xamarin Forms/UWP/C#/.NET developer who also 
  
     
 </div>
-  
+
+ 
   
 
