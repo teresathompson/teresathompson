@@ -3,8 +3,6 @@
   
  Hi there! 👋
 
-Hello! 👋
-
 I’m Teresa Anne Thompson, a MAUI/Xamarin Forms/UWP/C#/.NET developer with a knack for creating efficient, cross-platform apps that deliver great user experiences. My coding journey is complemented by a foundation in Data Science, allowing me to bridge the gap between software development and data-driven insights.
 
 ⚡ Fun fact: Before I switched gears to software development, I was a practicing veterinarian! 🐾 From caring for animals like dogs and cats, to now caring for clean code and robust architectures—I've always been driven by problem-solving and a curiosity for complex challenges. My experience as a vet taught me patience, empathy, and attention to detail, which surprisingly comes in handy when debugging code! 🐶🐱🐴
